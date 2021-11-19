@@ -6,7 +6,7 @@ Nhìn em rơi nước mắt vì anh
 Để cho em lại cô đơn
 Để cho em phải suy nghĩ suốt bao đêm,
     btnIntro: 'hihi',
-    title: 'ời xin lỗi,Lời xin lỗi
+    title: 'Lời xin lỗi,
 Có quá muộn màng lúc này,Lời xin lỗi vụng về của anh',
     desc: 'Thế nên cho anh xin lỗi nhé :(  ',
     btnYes: 'Dạ vângg :3',
@@ -18,5 +18,5 @@ Mình còn yêu hãy tha thứ cho nhau',
     mess: 'Anh biết mà :33. Yêu em nhiều nhiều <3',
     messDesc: 'Tha lỗi cho anh nhé :(.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100027314959722
+    messLink: 'https://www.facebook.com/messages/t/100027314959722 ,
 }
