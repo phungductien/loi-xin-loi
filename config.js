@@ -1,20 +1,18 @@
 const CONFIG = {
     introTitle: 'Em à!',
-    introDesc: `Nhìn em đau,
-là anh biết anh sai ở đâu.
-Nhìn em rơi nước mắt vì anh
+    introDesc: `nhìn em buồn là anh biết mình sai ở đâu
+Vì anh mà em
+Phải suy nghĩ suốt đêm
 Để cho em lại cô đơn
-Để cho em phải suy nghĩ suốt bao đêm,
-    btnIntro: 'hihi',
-    title: 'Lời xin lỗi,
-Có quá muộn màng lúc này,Lời xin lỗi vụng về của anh',
+Để em lại một mình suy nghĩ,
+    btnIntro: ':((',
+    title: 'Lời xin lỗi vụng về của anh
     desc: 'Thế nên cho anh xin lỗi nhé :(  ',
-    btnYes: 'Dạ vângg :3',
+    btnYes: 'Ừm, để xem thái độ của anh như nào :)',
     btnNo: 'Không, Anh trai à :)',
-    question:'Hãy cho anh một lần được nói
-Mình còn yêu hãy tha thứ cho nhau',
+    question:'Nếu như em còn yêu anh, thì tha thứ cho anh nhé <33
     btnReply: 'Gửi cho anh <3',
-    reply: 'Vì yêu anh nên em tha thứ đó :3',
+    reply: 'Vì yêu anh nên em tha thứ đó',
     mess: 'Anh biết mà :33. Yêu em nhiều nhiều <3',
     messDesc: 'Tha lỗi cho anh nhé :(.',
     btnAccept: 'Okiiiii lun <3',
