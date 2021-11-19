@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Em à!',
-    introDesc: `nhìn em đau,
+    introDesc: `Nhìn em đau,
 là anh biết anh sai ở đâu.
 Nhìn em rơi nước mắt vì anh
 Để cho em lại cô đơn
